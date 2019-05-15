@@ -1,8 +1,6 @@
 
 public class Git {
-//prueba    
-//Cambio Realizado  nuevo cambion desde infuermarket
-
+Prueba colaborativa desde infuermarket  
     public static void main(String[] args) {
         //esto es una prueba
         
